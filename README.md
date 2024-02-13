@@ -12,7 +12,7 @@
 
 1) Create a Sample JSon message of a PaymentTransfer  
    1.1) Check the fields, maybe add another another field
-2) Create an OpenAPI spec for the PaymentTransfer message
+2) Create an OpenAPI spec for the Json message
 3) Add documentation to the OpenAPI Spec and generate all the fields again
 4) Create the PaymentTransfer API for the paymentTransfer OpenAPI spec
 5) run the code doing `dotnet run`
